@@ -11,3 +11,6 @@ HCT116_crispr_essential.csv
 
 ### figure: Histgram by essentiality on HCT116:
 Distribution of Gene Effect by Essentiality.png
+
+## Result Image
+<img src="Distribution of Gene Effect by Essentiality.png" title="Sample Image" width="200">
