@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt
 # https://depmap.org/portal/cell_line/ACH-000971?tab=overview 
 # 以上DepmapよりHCT116の情報を取得
 gene_effect_df = pd.read_csv("gene_effects_ACH-000971.csv") # HCT116で登録されるgene_effect (17334, 5)
-# gene_effect_df = gene_effect_df.rename(columns={'gene': 'genes'})
+gene_effect_df = gene_effect_df.rename(columns={'gene': 'genes'})
 
 # HCT116: https://v3.ogee.info/?#/cellline/large%20intestine/HCT116/summary
 # OGEEでHCT116（Source: sanger, Platform: crispr）で登録されている必須遺伝子 
