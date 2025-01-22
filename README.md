@@ -13,4 +13,5 @@ HCT116_crispr_essential.csv
 Distribution of Gene Effect by Essentiality.png
 
 ## Result Image
-<img src="Distribution of Gene Effect by Essentiality.png" title="Sample Image" width="500">
+<img src="Distribution of Gene Effect by Essentiality.png" title="Sample Image" width="600">
+
