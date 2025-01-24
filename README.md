@@ -1,4 +1,9 @@
-The files are within the folder below
+## summary
+gene essentiality on HCT116 cell lines is determined by OGEE, although it is vague whether this index is actually correct.
+on the other hand, a new index named "gene effect" also appeared to illustrate the gene-essentiality.
+I collected and integrated the previous index OGEE and the new index "gene effect", and visualise that.
+
+## The files are within the folder below
 
 https://drive.google.com/drive/folders/1StCZs71HSz3qTp9DqWQfmkP5s-usX60u?usp=drive_link
 
